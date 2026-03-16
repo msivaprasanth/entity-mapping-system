@@ -253,7 +253,7 @@ http://127.0.0.1:8000/redoc/
 ## 1. Clone Repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/msivaprasanth/entity-mapping-system.git
 cd entity_mapping_system
 ```
 
